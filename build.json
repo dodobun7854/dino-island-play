@@ -1,0 +1,7 @@
+{
+  "bytes": 5040472,
+  "sha256": "e8ee4d25ae514cec73f53225b64bf59f13f13a386cfdb9fc36b8a8f790cf61b0",
+  "scope": "BR1 maintenance station and forest crossing; finite flare supply, noisy 45-second generator, normal dinosaur AI, solo/team last survivor and save/resume",
+  "browserValidation": "PASS_SINGLE_HTML_LOCAL_HTTP",
+  "validationReport": "docs/verification.json"
+}
