@@ -1,0 +1,10 @@
+<!doctype html><html lang="zh-Hant"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>恐龍島 · 獵場行動</title><link rel="icon" href="data:,">  <script type="module" crossorigin src="./assets/index-848ebe55.js"></script>
+  <link rel="stylesheet" href="./assets/index-c0ab0bc0.css">
+</head><body>
+<header><div><small>DINO ISLAND / FIELD TEST 02</small><h1>恐龍島 <span>獵場行動</span></h1></div><div class="meters"><div><small>攻勢</small><b id="wave">1 / 3</b></div><div><small>擊倒</small><b id="kills">0</b></div><div><small>存活時間</small><b id="clock">0:00</b></div></div></header>
+<div id="aim">＋</div><div id="hit" role="status"></div><div id="damage"></div>
+<footer><div class="health"><small>生命 <b id="health">100</b></small><div><i id="healthFill"></i></div></div><p>WASD 移動　Shift 奔跑　滑鼠左鍵射擊　右鍵瞄準　C 切換視角　Esc 暫停</p><button id="pauseButton">暫停</button></footer>
+<section id="intro" class="overlay"><article><div class="eyebrow">DINO ISLAND / SURVIVAL</div><h2>這次，<br>直接面對恐龍。</h2><p>保住補給站，擊退三波迅猛龍。<br>瞄準頭部、在牠們撲咬前拉開距離。</p><div class="controls"><span><kbd>WASD</kbd> 移動</span><span><kbd>滑鼠</kbd> 轉向</span><span><kbd>左鍵</kbd> 射擊</span><span><kbd>C</kbd> 第一／第三人稱</span></div><label class="quality">畫質 <select id="quality"><option value="performance">流暢</option><option value="standard">標準陰影</option></select></label><button id="start" disabled>進入獵場 →</button><p id="load" role="status">載入角色與恐龍…</p><small>桌面滑鼠與鍵盤版本。開始後鎖定滑鼠，Esc 可釋放。</small><details><summary>開源基底與素材</summary><p>改作自 <a href="https://github.com/UstymUkhman/YetAnotherZombieHorror" target="_blank" rel="noreferrer">YAZH</a>，保留其角色、鏡頭、射擊、敵人及 BVH 碰撞程式。<a href="./LICENSE-YAZH.txt">MIT 授權</a> · Quaternius CC0 角色與恐龍。場景與程序音效為本版製作。</p></details></article></section>
+<section id="pauseLayer" class="overlay" hidden><article><div class="eyebrow">PAUSED</div><h2>稍作停留</h2><p>按下繼續，重新鎖定滑鼠。</p><button id="resume">繼續遊戲 →</button></article></section>
+<section id="outcome" class="overlay" hidden><article><div class="eyebrow">ROUND COMPLETE</div><h2 id="resultTitle"></h2><p id="resultDetail"></p><button id="retry">再來一局 →</button></article></section>
+</body></html>

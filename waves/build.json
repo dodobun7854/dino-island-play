@@ -1,0 +1,22 @@
+{
+  "version": "YAZH-DINO-01",
+  "upstreamCommit": "cdbde45a9911200376a449957408c3bebbaccd12",
+  "validation": "PASS_NORMAL_INPUT_THREE_WAVES_AND_RETRY",
+  "files": {
+    ".nojekyll": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "ANIME-LICENSE.txt": "f825f5c75974fda9ae806de442770f3d7686cf86245e78fa0c3c39913184af95",
+    "BVH-LICENSE.txt": "b106ef6198a9862ed2b5b873e944ecf3583c631a84a7462d400ecc1910ce7fee",
+    "LICENSE-YAZH.txt": "0e70a654ef5c427c5b8c88f4e9d741715e5f3b5bcdb219157036b6c976d3404c",
+    "QUATERNIUS-CHARACTER-LICENSE.txt": "de990ef6fc68cffd7fd1ae342c4d0c823b541b8848d8f76bca5d3339f4de6f6e",
+    "QUATERNIUS-DINOSAURS-LICENSE.txt": "0c95524f43bb4b02273e23033baabbab7e93203cbd91cb98471bc102b15ef94e",
+    "README.md": "1c84a49d195cd44144f43649078ed1dcf8ed3e9883d617c03860dd50b00990ea",
+    "THIRD-PARTY.txt": "fee74fcb6e65b7b5fe9f60debaa08b28e7d6fd9c7f93d62910c9ea64e66806cf",
+    "THREE-LICENSE.txt": "852e0e8699169bf9f6fdc6bda3e682d078dcbc738b5d33e74df594721bff271d",
+    "assets/index-848ebe55.js": "9e93062f8e0db65097f0c6c0527de1efe59b31cea7909301cbedef2e1d217459",
+    "assets/index-c0ab0bc0.css": "c0ab0bc0765b9fce3e128e6079117ccddae143f4555478c58dbf861773b22373",
+    "assets/models/enemy.glb": "9c1554de20c001fdb530d6bc84463066fb76dd70eef1d0bd27763ccf95b17608",
+    "assets/models/player.glb": "4a02123db7235dd46eed75f24fcbda97e0370aaaf0c88ada8dc5ccce655df0b7",
+    "classic/index.html": "e8ee4d25ae514cec73f53225b64bf59f13f13a386cfdb9fc36b8a8f790cf61b0",
+    "index.html": "3f47be7cc66cec54ea7caf2c45eb62b46e93cce5597845d7fb73078065ae2a2c"
+  }
+}
