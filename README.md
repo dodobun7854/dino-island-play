@@ -1,21 +1,22 @@
-# Dinosaur Island: Jurassic Wilds
+# Dinosaur Island: Reserve art pass
 
-Play: https://dodobun7854.github.io/dino-island-play/?v=jurassic3
+Play: https://dodobun7854.github.io/dino-island-play/?v=art4
+Actual screenshots and movement recording: gallery/
 
-A desktop single-player skirmish against four AI opponents. Four dinosaur species:
-accelerating raptors, a giant T. rex, territorial triceratops with avoidable locked
-charges, and a canopy-height brachiosaurus that defends itself when attacked.
-Jurassic vegetation, a breached containment gate, spatial synthesized calls and
-footsteps, threat directions, sprint feedback, adjustable volume and reduced motion.
+An assembled park entrance, detailed safari truck and checkpoint, layered jungle,
+folded foliage, soil trail, molded material response, warm directional light,
+contact shadows, clearer giant silhouettes and compact combat UI.
+Use "先看園區" before Start to inspect three real WebGL views. The tour keeps the
+match paused and shows the rex at its actual paddock spawn. Exit restores the
+player camera and starts a normal untouched match when Start is clicked.
 
-WASD move, Shift run, mouse aim/fire, E loot, Q throw meat lure, R reload,
-1/2 switch weapons, C switch view, Esc pause. Eliminate the other humans to win.
-Gunfire attracts predators; cover and lures help avoid them. Sidestep trike charges.
+Desktop single-player against four AI opponents; four dinosaur species.
+WASD move, Shift run, mouse aim/fire, E supplies, Q lure, R reload, 1/2 weapons,
+C view, Esc pause. Gunfire attracts predators. Last surviving human wins.
 
-Uses the MIT-licensed YAZH player, controls, camera, weapon raycasts and BVH physics:
-https://github.com/UstymUkhman/YetAnotherZombieHorror
-Upstream commit: cdbde45a9911200376a449957408c3bebbaccd12
-Original match, AI, species behavior, navigation, environment, UI and synthesized
-audio adaptation. Models are Quaternius CC0. See THIRD-PARTY.txt and license files.
-
-Archives: hunt2/ (previous hunt), waves/ (three-wave prototype), classic/ (top-down).
+Retains the MIT YAZH player, controls, camera, weapon raycasts and BVH physics.
+Upstream: https://github.com/UstymUkhman/YetAnotherZombieHorror
+Commit: cdbde45a9911200376a449957408c3bebbaccd12
+Original adaptation: match/AI, navigation, Jurassic park, UI and generated audio.
+Models are Quaternius CC0. See THIRD-PARTY.txt and included license notices.
+Archives: jurassic3/, hunt2/, waves/, classic/.
