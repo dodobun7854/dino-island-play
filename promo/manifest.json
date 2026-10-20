@@ -1,0 +1,12 @@
+{
+  "version": "TEASER-01",
+  "duration": 15,
+  "video": "dino-island-15s.mp4",
+  "gameRuntimeChanged": false,
+  "files": {
+    "credits.txt": "616eb60e2dbe74c23d32d532478983c4b6f8f7bb6e0c640d70be149d5fbdcf7a",
+    "dino-island-15s.mp4": "7a1277eb228a256106d75edba750cb223fc09936bf994d79e51f63b4fcbe4513",
+    "index.html": "0f1f110f27c904b121aa5569b4fa6755804b415f27aac1e640ddf82e5ccf815b",
+    "poster.jpg": "170084d76d288ca57aae09c3330620952c3222c35e611ee4e3026d00d21ead96"
+  }
+}

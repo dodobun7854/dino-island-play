@@ -1,0 +1,18 @@
+Dino Island — 15-second teaser 01
+
+Actual development game environment and animated assets, with original promotional
+camera choreography and creature blocking. This is a cinematic showcase, not a
+player gameplay recording, a game performance benchmark, or a multiplayer claim.
+Frames: 360 at 24 fps; MP4 1920x1080. Scene buffer: 1280x720; typography: 1920x1080.
+Static environment sun shadows are cached; animated creatures use contact shadows.
+
+Music: original procedurally composed D-minor cue for this project. Foley and
+creature voices: original synthesis from the game's SoundBank.mjs. No commercial
+soundtrack or downloaded sound library is used. No narration.
+
+Game base: MIT Yet Another Zombie Horror by UstymUkhman, revision
+cdbde45a9911200376a449957408c3bebbaccd12. See ../LICENSE-YAZH.txt.
+Animated dinosaur and human models: Quaternius CC0. See
+../QUATERNIUS-DINOSAURS-LICENSE.txt and ../QUATERNIUS-CHARACTER-LICENSE.txt.
+Park, original structures, foliage, surfaces, typography layout and edit: this project.
+Runtime libraries: ../THIRD-PARTY.txt and included license notices.
