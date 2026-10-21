@@ -1,0 +1,5 @@
+YAZH: MIT, copyright Ustym Ukhman, see LICENSE-YAZH.txt.
+Quaternius models: CC0, see QUATERNIUS-*-LICENSE.txt.
+Three.js: MIT, see THREE-LICENSE.txt.
+Anime.js: MIT, see ANIME-LICENSE.txt.
+three-mesh-bvh: MIT, see BVH-LICENSE.txt.

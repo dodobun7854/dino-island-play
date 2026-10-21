@@ -1,0 +1,140 @@
+{
+  "version": "DINO-CREATURES-06",
+  "source": "Quaternius dinosaur base; retained earlier brachiosaurus adaptation",
+  "upstreamLicense": "CC0-1.0",
+  "modifications": "Detailed geometry, independently skinned rex jaw and mouth, original procedural maps, eyes/claws and shared weight overlays",
+  "models": [
+    {
+      "file": "rex-detail.glb",
+      "triangles": 16372,
+      "vertices": 12446,
+      "clips": [
+        "TRex_Attack",
+        "TRex_Death",
+        "TRex_Idle",
+        "TRex_Jump",
+        "TRex_Run",
+        "TRex_Walk"
+      ],
+      "images": 4,
+      "skinMeanRGB": [
+        87.93973159790039,
+        104.35161209106445,
+        66.96889114379883
+      ],
+      "bones": 30,
+      "sha256": "c4480feffe5dca862f55dbf3e8d8dfc71d566771e3a0120019b30aac38b5f4ed"
+    },
+    {
+      "file": "raptor-detail.glb",
+      "triangles": 9632,
+      "vertices": 6654,
+      "clips": [
+        "Velociraptor_Attack",
+        "Velociraptor_Death",
+        "Velociraptor_Idle",
+        "Velociraptor_Jump",
+        "Velociraptor_Run",
+        "Velociraptor_Walk"
+      ],
+      "images": 4,
+      "skinMeanRGB": [
+        140.8209114074707,
+        98.88018417358398,
+        60.58725357055664
+      ],
+      "bones": 29,
+      "sha256": "0f67578ed759886f97e5fa92ff12d3f049a259edb6ad64b4e2d9b7bbd5bfe920"
+    },
+    {
+      "file": "trike-detail.glb",
+      "triangles": 11356,
+      "vertices": 7881,
+      "clips": [
+        "Triceratops_Alert",
+        "Triceratops_Attack",
+        "Triceratops_Death",
+        "Triceratops_Graze",
+        "Triceratops_Idle",
+        "Triceratops_Jump",
+        "Triceratops_Run",
+        "Triceratops_Walk"
+      ],
+      "images": 4,
+      "skinMeanRGB": [
+        135.35071563720703,
+        97.0560531616211,
+        84.29239654541016
+      ],
+      "bones": 29,
+      "sha256": "a8c72e6cc69419b192241912c07dfd3c5fb0ba0701d8ce6a486ecadfe477ec04"
+    },
+    {
+      "file": "brachio-detail.glb",
+      "triangles": 42256,
+      "vertices": 25004,
+      "clips": [
+        "Brachiosaurus_Alert",
+        "Brachiosaurus_Graze",
+        "Brachiosaurus_Idle",
+        "Brachiosaurus_Walk"
+      ],
+      "images": 4,
+      "skinMeanRGB": [
+        97.0560531616211,
+        120.76173400878906,
+        116.20473098754883
+      ],
+      "bones": 34,
+      "sha256": "d544593534e386e39a7593d309aca6858f7d15b0a65407d5d01bfc56b832a157"
+    }
+  ],
+  "film": {
+    "status": "PASS",
+    "frames": 96,
+    "fps": 8,
+    "duration": 12,
+    "segments": [
+      {
+        "mode": "walk",
+        "angle": "three",
+        "frames": 24
+      },
+      {
+        "mode": "run",
+        "angle": "side",
+        "frames": 24
+      },
+      {
+        "mode": "turn",
+        "angle": "three",
+        "frames": 24
+      },
+      {
+        "mode": "attack",
+        "angle": "head",
+        "frames": 24
+      }
+    ],
+    "errors": [],
+    "method": "Actual exported GLB, shared game motion code and normal model-viewer progress control; frame-by-frame asset demonstration, not gameplay footage.",
+    "encodedMedia": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 960,
+          "height": 640,
+          "r_frame_rate": "24/1",
+          "nb_frames": "288"
+        }
+      ],
+      "format": {
+        "duration": "12.000000",
+        "size": "1426522"
+      }
+    },
+    "movieSha256": "68d7490fc0b10b2c3b530f87b43c51384daf7f3a50cd39087dc92f6d51130ac1"
+  }
+}
